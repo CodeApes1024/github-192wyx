@@ -12,5 +12,11 @@ public class Github192wyxApplicationTests {
     @Test
     public void contextLoads() {
     }
+    
+    @test
+    public void concetto(){
+        System.opt.println("别人写的代码");
+    
+    }
 
 }
